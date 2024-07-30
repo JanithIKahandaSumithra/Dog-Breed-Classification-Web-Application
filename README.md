@@ -10,11 +10,13 @@ This project involves training a deep learning model to classify dog breeds from
 
 ## Requirements
 
-- `tensorflow==2.12.0`
-- `streamlit==1.10.0`
-- `Pillow==9.1.0`
-- `joblib==1.2.0`
-- `matplotlib==3.5.2`
-- `pandas==1.4.2`
-- `numpy==1.22.4`
+- `tensorflow==2.15.0`
+- `streamlit==1.37.0`
+- `pillow==10.4.0`
+- `joblib==1.3.2`
+- `matplotlib==3.7.2`
+- `pandas==2.0.3`
+- `numpy==1.24.2`
+
+
 
