@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Dog Breed Classification
 
 This project involves training a deep learning model to classify dog breeds from images. The project includes scripts to train the model and a Streamlit web application to make predictions using the trained model.
@@ -17,6 +17,4 @@ This project involves training a deep learning model to classify dog breeds from
 - `matplotlib==3.5.2`
 - `pandas==1.4.2`
 - `numpy==1.22.4`
-=======
-# Dog-Breed-Classification-Web-Application
->>>>>>> 5d7a742c69d388899b222f4ca748540758f2cd61
+
